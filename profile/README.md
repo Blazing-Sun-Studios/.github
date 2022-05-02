@@ -1,2 +1,2 @@
 # Blazing Sun Studios
-## The better way to do things
+The better way to do things
